@@ -1,0 +1,11 @@
+execute if block ~ ~ ~ minecraft:light_blue_wool run function sequor:powers/add/speed
+execute if block ~ ~ ~ minecraft:lime_wool run function sequor:powers/add/jump_boost
+execute if block ~ ~ ~ minecraft:magenta_wool run function sequor:powers/add/levitation
+execute if block ~ ~ ~ minecraft:white_wool run function sequor:powers/add/slow_falling
+execute if block ~ ~ ~ minecraft:yellow_wool run function sequor:powers/add/set_checkpoint
+execute if block ~ ~ ~ minecraft:gray_wool run function sequor:powers/add/go_to_checkpoint
+execute if block ~ ~ ~ minecraft:green_wool run function sequor:powers/add/swap
+execute if block ~ ~ ~ minecraft:light_gray_wool run function sequor:powers/add/shield
+execute if block ~ ~ ~ minecraft:pink_wool run function sequor:powers/add/reset_powers
+execute if block ~ ~ ~ minecraft:black_wool run function sequor:powers/add/reset_powers_checkpoint
+execute if block ~ ~ ~ minecraft:purple_wool run function sequor:powers/add/tp

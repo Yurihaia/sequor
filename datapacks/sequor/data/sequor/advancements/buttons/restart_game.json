@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"punch_shulker": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"entity": {
+					"type": "minecraft:shulker",
+					"nbt": "{Tags:[\"lobby_button\",\"restart_game\"]}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "sequor:lobby/button/restart_game"
+	}
+}
