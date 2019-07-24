@@ -13,6 +13,6 @@ You are allowed to record footage of playing this map, but you must link to [htt
 
 ## Pictures
 
-![image 1](https://raw.githubusercontent.com/MrYurihi/sequor/master/readme_img/img_0.png)
-![image 2](https://raw.githubusercontent.com/MrYurihi/sequor/master/readme_img/img_1.png)
-![image 3](https://raw.githubusercontent.com/MrYurihi/sequor/master/readme_img/img_2.png)
+![image 1](readme_img/img_0.png)
+![image 2](readme_img/img_1.png)
+![image 3](readme_img/img_2.png)
