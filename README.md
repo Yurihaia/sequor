@@ -9,7 +9,7 @@ To download the map, go to [https://github.com/MrYurihi/sequor/releases/latest](
 You will see a button where you can download `Sequor.zip`. Download the zip, then extract it into your [minecraft save directory](https://help.mojang.com/customer/portal/articles/1480874-where-are-minecraft-files-stored-).
 
 ## Recording
-You are allowed to record footage of playing this map, but you must link to [https://github.com/MrYurihi/sequor](https://github.com/MrYurihi/sequor/).
+You are allowed to record footage of playing this map, but you must link to [https://github.com/MrYurihi/sequor](https://github.com/MrYurihi/sequor#Sequor).
 
 ## Pictures
 
