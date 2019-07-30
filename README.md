@@ -16,6 +16,7 @@ You are allowed to record footage of playing this map, but you must link to [htt
 ![image 1](readme_img/img_0.png)
 ![image 2](readme_img/img_1.png)
 ![image 3](readme_img/img_2.png)
+![image 4](readme_img/img_3.png)
 
 ## Bugs
 If you do happen to find a bug, you can report it on the issues tab of this repo. I will try to fix it as soon as I can.  
